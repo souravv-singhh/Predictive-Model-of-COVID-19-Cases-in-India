@@ -1,2 +1,0 @@
-# Predictive-Model-of-COVID-19-Cases-in-India
-Coronavirus disease is a contagious disease that is believed to have started in Wuhan, China in the month of December, 2019. The virus has been spreading worldwide since then and still hasn't been controlled. Several vaccines have been approved and distributed leading to mass vaccination drives. However, the virus seems to be constantly evolving and has not been properly controlled yet. This analysis is for experimenting and the data can be found on Kaggle as a public dataset.
